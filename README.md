@@ -2,5 +2,7 @@
 
 ### Content table:
 
-#### 1. YOUR PROJECT NAME 1.
-#### 2. YOU PROJECT NAM 2.
+#### 1. dataquest_Guided Project: Visualizing Earnings Based On College Majors
+
+
+
