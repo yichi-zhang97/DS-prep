@@ -3,7 +3,7 @@
 ### Content table:
 
 #### 1. dataquest_Guided Project: Visualizing Earnings Based On College Majors
-#### 2. take_home_cha;;enge
+#### 2. take_home_challenge
 
 
 
