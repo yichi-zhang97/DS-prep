@@ -3,7 +3,8 @@
 ### Content table:
 
 #### 1. dataquest_Guided Project: Visualizing Earnings Based On College Majors
-#### 2. take_home_challenge
+#### 2. take_home_challenges
+####      ->funnel analysis
 
 
 
